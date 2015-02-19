@@ -1,0 +1,2 @@
+C:\Users\Alex\AndroidStudioProjects\ch09_ex4_NewsReader-master\app\build\intermediates\classes\debug
+C:\Users\Alex\AndroidStudioProjects\ch09_ex4_NewsReader-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5d5048cda6182c70406d85dae22dfe344dbd5166.jar
